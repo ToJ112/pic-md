@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T05:34:02.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" version="18.1.2" etag="F27yvEVA-FUFfB0GN-VU" type="github"><diagram id="eqWuLY_z4YQiVNft02pO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-25T05:41:09.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="qBthfTb3u5ujCLCWTBwa" version="18.1.2" type="github">
+  <diagram id="eqWuLY_z4YQiVNft02pO" name="Page-1">
+    <mxGraphModel dx="2893" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wQNlvQCzxhob11wY_32o-3" value="binlog" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wQNlvQCzxhob11wY_32o-1" target="wQNlvQCzxhob11wY_32o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQNlvQCzxhob11wY_32o-1" value="&lt;br&gt;MySQL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="210" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQNlvQCzxhob11wY_32o-2" value="Canal&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
