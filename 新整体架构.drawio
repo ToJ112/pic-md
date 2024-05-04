@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-04T02:44:40.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="RBAbgCMb7lI-y7gvuq31" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-04T02:47:13.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yqc7igi5ejSKkmlpeX14" version="24.3.1" type="github">
   <diagram name="第 1 页" id="8a-9v8xuM8Dy89i8Rbkq">
-    <mxGraphModel dx="717" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="Y7iztjV5FLh4-UJOSg3i-11" value="修复建议生成模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;" parent="1" vertex="1">
           <mxGeometry x="430" y="380" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y7iztjV5FLh4-UJOSg3i-14" value="误用上下文筛选模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;" parent="1" vertex="1">
-          <mxGeometry x="172.5" y="358.5" width="120" height="30" as="geometry" />
+        <mxCell id="Y7iztjV5FLh4-UJOSg3i-14" value="误用上下文切片模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;" parent="1" vertex="1">
+          <mxGeometry x="172.5" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y7iztjV5FLh4-UJOSg3i-18" value="误用检测模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体-简;" parent="1" vertex="1">
           <mxGeometry x="192.5" y="300" width="80" height="30" as="geometry" />
@@ -48,6 +48,18 @@
             <mxPoint x="610" y="485" as="sourcePoint" />
             <mxPoint x="120" y="485" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IPG4iHUT1SF-epVdFXEr-11" value="基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPG4iHUT1SF-epVdFXEr-12" value="技术层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPG4iHUT1SF-epVdFXEr-13" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="358.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPG4iHUT1SF-epVdFXEr-14" value="误用判定模块" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体-简;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="380" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
