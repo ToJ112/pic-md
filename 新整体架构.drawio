@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T09:44:24.021Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tDWbLk1TfnW5FAIe6Rxw" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T09:44:36.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HR_TuyjPD0vQiNYKePKy" version="24.3.1" type="github">
   <diagram name="第 1 页" id="8a-9v8xuM8Dy89i8Rbkq">
     <mxGraphModel dx="1644" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,15 +27,6 @@
         </mxCell>
         <mxCell id="IPG4iHUT1SF-epVdFXEr-8" value="图距离计算" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=宋体-简;fontSize=14;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="181.25" y="465" width="107.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IPG4iHUT1SF-epVdFXEr-11" value="基础层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体-简;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="60" y="555" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IPG4iHUT1SF-epVdFXEr-12" value="技术层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体-简;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="60" y="495" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IPG4iHUT1SF-epVdFXEr-13" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=宋体-简;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="60" y="358.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sD6JeU3PSlGkvY1KBa5A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OpnrRFy9IsakW-a11sn6-1" target="Y7iztjV5FLh4-UJOSg3i-14">
           <mxGeometry relative="1" as="geometry" />
